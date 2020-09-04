@@ -1,7 +1,7 @@
 /*
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
---- Author         : Ajay_Patil                                                               ---
+--- Author         : Dnyaneshwar_Patil                                                        ---
 --- Mail           : ajayp2324@gmail.com                                                      ---
 --- Date           : 26/Jan/2020                                                              ---
 --- This program search pattern using the KMP (Knuth Morris Pratt Algorithm) algorithm        ---
